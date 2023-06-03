@@ -11,6 +11,14 @@
 * run `npm install` to install dependencies
 * run `npm start` to start the server
 
+## User Flow
+* User will see a list of products on the home page
+* User can increase or decrease the quantity of the product
+* When the quantity of the product hits zero, an email will be sent to the user
+* User can contact the admin by clicking on the contact button
+* User can filter products in ascending or descending order by clicking button
+  
+
 ## Technologies
 
 * React
